@@ -1,3 +1,4 @@
 Testing a branch
 What do you think?
 Whoa! what a source control!!
+fixed something on master
